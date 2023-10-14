@@ -19,7 +19,7 @@
             android:layout_height="47dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            app:srcCompat="@drawable/download" />
+            app:srcCompat="@drawable/logo" />
     <TextView
         android:id="@+id/header"
         android:layout_width="match_parent"
